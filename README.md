@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-<h1 align='center'> Hi, My Name is Afnan Elfazary</br> <p align='center'>  </p> 
+<h1 align='center'> Hi, My Name is Afnan</br> <p align='center'>  </p> 
 </br>
    I'm an Android Developer!  👩🏼‍💻 📱
  </h1>
