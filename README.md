@@ -2,13 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-<h1 align='center'> Hi, My Name is Afnan</br> <p align='center'>  </p> 
+<h1 align='center'> Hi, My Name is Afnan</br> <p align='center'>
+<!--<a href="https://github.com/afnanelfazary"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20My%20Name%20is%20Afnan;&font=Pacifico&center=true&width=650&height=120&color=e1c0c9&vCenter=true&size=45%22"></a>
+</p>-->
+
+</p> 
 </br>
    I'm an Android Developer!  👩🏼‍💻 📱
  </h1>
 </br>
 </hr>
-
+<p align="center">
+  <a href="https://github.com/afnanelfazary"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;📲%20Android%20App%20Developer;🤝%201%20year%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=e1c0c9&vCenter=true&size=45%22"></a>
+</p>
  
 <p align='center'> 
   <img src="https://media3.giphy.com/media/IIv3NuURRxgJO/giphy.gif?cid=790b76114da2a822b6ffb45af5d96f77caf2170a46799936&rid=giphy.gif&ct=g" width="180px"> 
@@ -20,10 +26,10 @@
 
 <!-- <p align='center'>
 <a href="https://www.linkedin.com/in/programmershri/">
-  <img align="left" alt="Shrikant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+  <img align="left" alt="Afnan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/programmershri">
-  <img align="left" alt="Shrikant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
+  <img align="left" alt="Afnan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
 <a href="https://t.me/ProgrammerShri">
   <img align="left" alt="Shrikant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" />
@@ -90,36 +96,40 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
+<details> 
+ <summary> <h4> 🔰 Some of my projects </h4><hr></summary>
+  <br/>
 
-## Github Stats
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afnanelfazary&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Afnan's Github Stats">
+  <p align="left">
+  <a href="https://github.com/afnanelfazary/PlantsEcommerceApplication">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=afnanelfazary&repo=PlantsEcommerceApplication&theme=react&bg_color=0D1117" alt="PlantsEcommerceApplication"></a>
+
+  <a href="https://github.com/afnanelfazary/IslamiApp">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=afnanelfazary&repo=IslamiApp&theme=react&bg_color=0D1117" alt="IslamiApp"></a>
+
+  <a href="https://github.com/afnanelfazary/C-CPP-Programming-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=afnanelfazary&repo=ToDoListApplication&theme=react&bg_color=0D1117" alt="ToDoListApplication"></a>
+
   </p>
 
-<!-- ![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=afnanelfazary&count_private=true&theme=radical
-) -->
-<br />
-
- 
- 
-
-<hr>
-<br>
-
- 
-<hr>
-
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=afnanelfazary&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+ <p align="left">
+  <a href="https://github.com/afnanelfazary?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
+</details>
 
-<hr>
-<br>
+ <h4 align="center">
+📊 My Github Stats 📊
+</h4>
+ 
+ <div align="center">
+    <a href="#"><img alt="TYP Github Stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=afnanelfazary&include_all_commits=true&theme=react&hide_border=true&show_icons=true&bg_color=0D1117"/></a>
+    <a href="#"><img alt="TYP Top Language" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanelfazary&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="#"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=afnanelfazary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+</div>
+
+<p>
+<b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
  
 <hr><br>
