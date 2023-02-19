@@ -8,7 +8,7 @@
 
 </p> 
 </br>
-   I'm an Android Developer!  👩🏼‍💻 📱
+   I'm an iOS Developer!  👩🏼‍💻 📱
  </h1>
 </br>
 </hr>
