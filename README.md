@@ -13,7 +13,7 @@
 </br>
 </hr>
 <p align="center">
-  <a href="https://github.com/afnanelfazary"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;📲%20Android%20App%20Developer;🤝%201%20year%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=e1c0c9&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/afnanelfazary"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;📲%20iOS%20App%20Developer;🤝%201%20year%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=e1c0c9&vCenter=true&size=45%22"></a>
 </p>
  
 <p align='center'> 
